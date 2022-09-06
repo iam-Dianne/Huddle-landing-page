@@ -62,3 +62,15 @@ footer {
     justify-content:end;
     margin: 0px 70px 20px 0px;
 }
+.fa-facebook:hover {
+    color:hsl(300, 69%, 71%);
+    cursor:pointer;
+}
+.fa-twitter:hover {
+    color:hsl(300, 69%, 71%);
+    cursor:pointer;
+}
+.fa-instagram:hover {
+    color:hsl(300, 69%, 71%);
+    cursor:pointer;
+}
